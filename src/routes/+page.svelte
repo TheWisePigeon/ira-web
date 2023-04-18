@@ -1,6 +1,7 @@
 <script></script>
 
 <div class=" text-xl">
+    <h1 class=" text-3xl text-red-500 mt-5">PRESENTATION</h1>
 	<h1>
 		IRA is a tool that helps you replicate your dev environment accross many devices, easily by just
 		creating a config file
@@ -15,5 +16,14 @@
 		IRA means "anger" in latin, and I was pretty pissed off while I was writting it, so that's where
 		the name came from :)
 	</h1>
-    <h1 class="text-3xl text-red-500 mt-5 underline">INSTALLATION</h1>
+</div>
+
+<div class="mt-5 text-xl">
+    <h1 class="text-3xl text-red-500 underline">INSTALLATION</h1>
+</div>
+
+<div class="mt-5 text-xl">
+    <h1 class="text-3xl text-red-500 underline">CONCEPTS</h1>
+    <h1 class="font-bold">ACTIONS</h1>
+    <h1 class="font-bold">IRA CONFIG FILE</h1>
 </div>

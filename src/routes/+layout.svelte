@@ -9,6 +9,7 @@
     <div class=" flex gap-10 underline">
         <a href="https://github.com/TheWisePigeon/ira">GitHub</a>
         <a href="/docs">Docs</a>
+        <a href="/member">Create action</a>
     </div>
 </header>
 <slot/>
